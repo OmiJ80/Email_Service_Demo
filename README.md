@@ -17,7 +17,7 @@ This project implements a resilient email sending service in TypeScript. The ser
 ## Requirements
 
 - Node.js
-- TypeScript
+- Javascript
 
 ## Setup
 
